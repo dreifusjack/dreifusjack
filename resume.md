@@ -1,2 +1,2 @@
 Jack Dreifus 
-Computer Science student at Northeastern University 
+Computer Science student at Northeastern University.
