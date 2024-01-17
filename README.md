@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+## <!-- ### Hi there 👋 -->
 ---
 #### I'm a Computer Science student at Northeastern University, with a plan to concentrate in Software. I love to ski⛷️, play chess ♟️, and travel 🧳.
 
