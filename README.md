@@ -10,7 +10,7 @@
 ##### BIO
 - 😄 Pronouns: `he/him`
 - 🧠 `.java, .rkt, .js, `
-- ⚡️ Fun fact: I'm cross-dominant (throw a football land-handed, throw a baseball right-handed)
+- ⚡️ Fun fact: I'm cross-dominant (throw a football right-handed, throw a baseball left-handed)
 - 📫 How to reach me: 
   - 📧 <dreifus.j@northeastern.edu>
   - 💼 [LinkedIn @jack-dreifus](https://www.linkedin.com/in/jack-dreifus-7770b228b/)
